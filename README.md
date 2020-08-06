@@ -16,7 +16,7 @@
 # Overview
 [(Back to top)](#table-of-contents)
 
-This repository contains the code for Image Classification using Augmentation. 
+This repository contains a program for Image Classification using Augmentation. 
 
 We are going to use 3 libraries for this project:
 1. os: For Handling Directories using Python.
