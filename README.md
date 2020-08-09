@@ -20,9 +20,9 @@
 This repository contains a program for Image Classification using Augmentation. 
 
 We are going to use 3 libraries for this project:
-1. os: For Handling Directories using Python.
-2. random: This library was used in the split function for establishing training and testing directories.
-3. tensorflow: The main framework used for building the Convolutional Neural Network. Our main focus on this project is to explore the parameters of the ImageDataGenerator Function
+1. **os:** For Handling Directories using Python.
+2. **random:** This library was used in the split function for establishing training and testing directories.
+3. **tensorflow:** The main framework used for building the Convolutional Neural Network. Our main focus on this project is to explore the parameters of the ImageDataGenerator Function
 
 For the Optimizer function, we are going to use the inbuilt tensorflow.keras.optimizers.RMSprop with a custom learning rate of 0.001.
 
