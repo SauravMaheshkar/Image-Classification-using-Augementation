@@ -12,6 +12,7 @@
 - [Overview](#overview)
 - [Performance Review](#performance)
 - [Footer](#footer)
+- [Credits](#credits)
 
 # Overview
 [(Back to top)](#table-of-contents)
@@ -57,3 +58,8 @@ Loss Graph
 [(Back to top)](#table-of-contents)
 
 Leave a star in GitHub, visit my blog and subscribe to it and share the code if you found this helpful.
+
+# Credits
+[(Back to top)](#table-of-contents)
+
+This project was based upon the work of Laurence Moroney (@lmoroney) from the deeplearning.ai course on Coursera. You can find the original file [here](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb)
